@@ -1,0 +1,20 @@
+{
+  "name": "gdrive-wrapper",
+  "version": "1.0.0",
+  "description": "Google drive wrapper",
+  "license": "MIT",
+  "repository": "raulcalvo/gdrive-wrapper",
+  "main": "index.js",
+  "keywords": [
+    "google",
+    "drive",
+    "google drive",
+    "wrapper"
+  ],
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "googleapis": "^46.0.0",
+    "mime-types": "^2.1.25",
+    "path": "^0.12.7"
+  }
+}
