@@ -1,6 +1,6 @@
 {
   "name": "gdrive-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google drive wrapper",
   "license": "MIT",
   "repository": "raulcalvo/gdrive-wrapper",
